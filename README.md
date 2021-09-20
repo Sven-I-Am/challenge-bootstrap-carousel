@@ -8,4 +8,4 @@ The challenge is to build a carousel using the bootstrap framework only.
 1 day
 
 ## Link to the published page
-n.a.
+https://sven-i-am.github.io/challenge-bootstrap-carousel/
