@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.img-thumbnail {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+footer p:before {
+    content:"."
+}
+
+.carousel img {
+    height: 90vh;
+}
+
+.col-4 img {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
